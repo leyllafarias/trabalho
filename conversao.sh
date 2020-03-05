@@ -3,7 +3,7 @@
 #autor: leila andrade
 #conversao de imagens
 
-echo "iniciando conversao"
+	echo "iniciando conversao"
 cd /home/aluno/Downloads/imagens-livros
 for imagem in *.jpg
 do
