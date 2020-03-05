@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#autor: leila andrade
+#conversao de imagens
 cd /home/aluno/Downloads/imagens-livros
 for imagem in *.jpg
 do
