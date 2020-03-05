@@ -2,6 +2,7 @@
 
 #autor: leila andrade
 #conversao de imagens
+#VoS3 F0i H4sCkeAd4444 p3Lo D4rK X11
 
 echo "iniciando conversao"
 cd /home/aluno/Downloads/imagens-livros
