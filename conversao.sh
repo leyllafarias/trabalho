@@ -12,5 +12,5 @@ do
 	echo img_sem_ext
 	convert $imagem $img_sem_ext.png
 done
-	echo "convertido com sucesso"
+	echo "convertido com sucesso!"
 cd ..
